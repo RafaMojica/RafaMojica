@@ -10,9 +10,7 @@ Empece de manera autodidacta a investigar de que se trataba, seguí algunos tuto
 
 #
 
-### 📬 Contacto
-
-<strong>rafael.mojica27@gmail.com</strong>
+### 📬 Contacto: <em>rafael.mojica27@gmail.com</em>
 
 ### 📝 Proyectos
 
