@@ -5,19 +5,17 @@
 A comienzos del 2022, después de un tiempo ejerciendo mi carrera y sintiendome insatisfecho salí de mi zona de confort, dándole un giro a mi vida donde decidí tomar un camino y desafío nuevo, desde pequeño siempre tuve el gusto y la pasión por la tecnología que al día de hoy persistió, así fue que comenzó mi camino por el mundo de las IT.
 
 Empece de manera autodidacta a investigar de que se trataba, seguí algunos tutoriales y leí documentación para luego anotarme en una carrera FullStack, donde dedique más de 800 horas aprendiendo y consolidando mis conocimientos, por otra parte, descubrí nuevas cualidades, entre ellas puedo decir que soy una persona curiosa y colaboradora, me gusta estar en continuo aprendizaje trabajando en equipo, conociendo nuevas personar y formando amistades.
-
-<strong> 📘 <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer"> Portafolio </a></strong>
+ 
+ <p align="left">
+      <a href="https://www.linkedin.com/in/rafamojica/">
+         <img alt="Portafolio" title="Mira mi portafolio" src="https://custom-icon-badges.demolab.com/badge/-Mi%20Portafolio-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
+        <a href="https://github.com/RafaMojica?tab=repositories">
+         <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Mis%20Repositorios-orange?style=for-the-badge&logoColor=white&logo=repo"/></a>
+   </p>
 
 #
 
 ### 📬 Contacto: <em>rafael.mojica27@gmail.com</em>
-
-### 📝 Proyectos
-
-<a href="https://github.com/RafaMojica?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Linkedin" width="40px" style="padding-right:10px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" />
-</a>
-<br/><br/>
 
 ### 🤗 Conecta Conmigo
 
