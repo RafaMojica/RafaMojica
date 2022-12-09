@@ -1,16 +1,56 @@
-### Hi there 👋
+<h1 align="center">🧑‍💻 Rafael Mojica 🧑‍💻</h1>
 
-<!--
-**RafaMojica/RafaMojica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer apasinado de Colombia 🇨🇴</h3>
 
-Here are some ideas to get you started:
+A comienzos del 2022, después de un tiempo ejerciendo mi carrera y sin sentirme satisfecho salí de mi zona de confort, dándole un giro a mi vida donde decidí tomar un camino y desafío nuevo, desde pequeño siempre tuve el gusto y la pasión por la tecnología que al día de hoy persistió, así fue que comenzó mi camino por el mundo de las IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Empece de manera autodidacta a investigar de que se trataba, seguí algunos tutoriales y leí documentación para luego anotarme en una carrera FullStack, donde dedique más de 800 horas aprendiendo y consolidando mis conocimientos, por otra parte, descubrí nuevas cualidades, entre ellas puedo decir que soy una persona curiosa y colaboradora, me gusta estar en continuo aprendizaje trabajando en equipo, conociendo nuevas personar y formando amistades.
+
+<strong> 📘 <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer"> Portafolio </a></strong>
+
+#
+
+### 📬 Contacto
+
+<strong>rafael.mojica27@gmail.com</strong>
+
+### 📝 Proyectos
+
+<a href="https://github.com/RafaMojica?tab=repositories" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Linkedin" width="40px" style="padding-right:10px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" />
+</a>
+<br/><br/>
+
+### 🤗 Conecta Conmigo
+
+<a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Linkedin" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<a href="https://www.instagram.com/tartaruga_nago/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Instagram" width="40px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+</a>
+<br/><br/>
+
+### 💻 Tecnologias
+
+<img align="left" alt="Node.js" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Sequelize" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<img align="left" alt="Postgresql" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="React" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Redux" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img align="left" alt="Css3" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="Html5" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="Javascript" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<br/><br/>
+
+### 🧰 Herramientas
+
+<img align="left" alt="Sass" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Bootstrap" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Npm" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="Postman" width="40px" style="padding-right:10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="VisualStudio" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Figma" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Trello" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
