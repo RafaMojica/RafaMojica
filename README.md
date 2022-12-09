@@ -2,9 +2,9 @@
 
 <h3 align="center">Full Stack Developer apasinado de Colombia 🇨🇴</h3>
 
-Hola a todos, les cuento un poco de mi! a comienzos del 2022, después de un tiempo ejerciendo mi carrera y sintiendome insatisfecho salí de mi zona de confort, dándole un giro a mi vida donde decidí tomar un camino y desafío nuevo, desde pequeño siempre tuve el gusto y la pasión por la tecnología que al día de hoy persistió, así fue que comenzó mi camino por el mundo de las IT.
+Hola a todos, les cuento un poco de mi! a comienzos del 2022, después de un tiempo ejerciendo mi carrera como Ingeniero Civil y sintiendome insatisfecho salí de mi zona de confort, dándole un giro a mi vida donde decidí tomar un camino diferente y un nuevo desafío, desde pequeño siempre tuve el gusto y la pasión por la tecnología que al día de hoy persistió, así fue que comenzó mi camino por el mundo de las IT.
 
-Empece de manera autodidacta a investigar de que se trataba, seguí algunos tutoriales y leí documentación para luego anotarme en una carrera FullStack, donde dedique más de 800 horas aprendiendo y consolidando mis conocimientos, por otro lado, en este proceso descubrí nuevas cualidades, entre ellas puedo decir que soy una persona curiosa y colaboradora, me gusta estar en continuo aprendizaje trabajando en equipo, conociendo nuevas personar y formando amistades.
+Empece de manera autodidacta a investigar de que se trataba, seguí algunos tutoriales y leí documentación para luego anotarme en una carrera FullStack, donde dedique más de 800 horas aprendiendo y consolidando mis conocimientos, por otro lado, en este proceso descubrí nuevas cualidades en mi, entre ellas puedo decir que soy una persona curiosa y colaboradora, me gusta estar en continuo aprendizaje trabajando en equipo, conociendo nuevas personar y formando amistades.
  
  <p align="left">
       <a href="https://www.linkedin.com/in/rafamojica/">
