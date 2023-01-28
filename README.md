@@ -9,17 +9,16 @@ Hola a todos, les cuento un poco de mi! a comienzos del 2022, después de un tie
 Empece de manera autodidacta a investigar de que se trataba, seguí algunos tutoriales y leí documentación para luego anotarme en una carrera FullStack, donde dedique más de 800 horas aprendiendo y consolidando mis conocimientos, por otro lado, en este proceso descubrí nuevas cualidades en mi, entre ellas puedo decir que soy una persona curiosa y colaboradora, me gusta estar en continuo aprendizaje trabajando en equipo, conociendo nuevas personar y formando amistades.
  
 <p align="left">
- <a href="rafael.mojica27@gmail.com">
-         <img alt="Gmail" title="gmail" src="https://custom-icon-badges.demolab.com/badge/-rafael.mojica27@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
-       <a href="https://www.linkedin.com/in/rafamojica/">
-         <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
-      <a href="https://www.linkedin.com/in/rafamojica/">
-         <img alt="Portafolio" title="portafolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-teal?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
-       <a href="https://www.linkedin.com/in/rafamojica/">
-         <img alt="CV" title="Mira mi CV" src="https://custom-icon-badges.demolab.com/badge/-CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
-        <a href="https://github.com/RafaMojica?tab=repositories">
-         <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Repositorios-orange?style=for-the-badge&logoColor=white&logo=repo"/></a>
-   </p>
+    <img alt="Gmail" title="gmail" src="https://custom-icon-badges.demolab.com/badge/-rafael.mojica27@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/rafamojica/">
+    <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
+  <a href="https://www.linkedin.com/in/rafamojica/">
+    <img alt="Portafolio" title="portafolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-teal?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rafamojica/">
+    <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
+  <a href="https://github.com/RafaMojica?tab=repositories">
+    <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Repositorios-orange?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
 #
 
