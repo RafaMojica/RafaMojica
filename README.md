@@ -14,7 +14,7 @@ Empece de manera autodidacta a investigar de que se trataba, seguí algunos tuto
     <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
   <a href="https://www.linkedin.com/in/rafamojica/">
     <img alt="Portafolio" title="portafolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-teal?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rafamojica/">
+  <a href="https://drive.google.com/file/d/1vve95FnPtt4y23Ly8Zrdea0GkMl16OTc/view?usp=share_link">
     <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
   <a href="https://github.com/RafaMojica?tab=repositories">
     <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Repositorios-orange?style=for-the-badge&logoColor=white&logo=repo"/></a>
