@@ -12,7 +12,7 @@ Empece de manera autodidacta a investigar de que se trataba, seguí algunos tuto
     <img alt="Gmail" title="gmail" src="https://custom-icon-badges.demolab.com/badge/-rafael.mojica27@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
   <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer">
     <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
-  <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer">
+  <a href="https://portafolio-rafael-mojica.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portafolio" title="portafolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-teal?style=for-the-badge&logo=repo-template&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1vve95FnPtt4y23Ly8Zrdea0GkMl16OTc/view?usp=share_link" target="_blank" rel="noopener noreferrer">
     <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
@@ -29,7 +29,7 @@ Empece de manera autodidacta a investigar de que se trataba, seguí algunos tuto
 <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Linkedin" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
-<a href="https://www.instagram.com/tartaruga_nago/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/rafa_mojica_/" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Instagram" width="40px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <br/><br/>
