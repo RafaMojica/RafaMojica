@@ -9,7 +9,8 @@ Hola a todos, les cuento un poco de mi! a comienzos del 2022, después de un tie
 Empece de manera autodidacta a investigar de que se trataba, seguí algunos tutoriales y leí documentación para luego anotarme en una carrera FullStack, donde dedique más de 800 horas aprendiendo y consolidando mis conocimientos, por otro lado, en este proceso descubrí nuevas cualidades en mi, entre ellas puedo decir que soy una persona curiosa y colaboradora, me gusta estar en continuo aprendizaje trabajando en equipo, conociendo nuevas personar y formando amistades.
  
 <p align="left">
-    <img alt="Gmail" title="gmail" src="https://custom-icon-badges.demolab.com/badge/-rafael.mojica27@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
+ <a href="mailto:rafael.mojica27@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img alt="Gmail" title="gmail" src="https://custom-icon-badges.demolab.com/badge/-rafael.mojica27@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer">
     <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
   <a href="https://portafolio-rafael-mojica.vercel.app/" target="_blank" rel="noopener noreferrer">
