@@ -14,7 +14,7 @@ Empecé de manera autodidacta a investigar de que se trataba, seguí algunos tut
  <a href="https://portafolio-rafael-mojica.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portafolio" title="portafolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-teal?style=for-the-badge&logo=link&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer">
-    <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=portafolio"/></a>
+    <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
  <a href="https://www.instagram.com/rafa_mojica_/" target="_blank" rel="noopener noreferrer">
     <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://github.com/RafaMojica?tab=repositories" target="_blank" rel="noopener noreferrer">
