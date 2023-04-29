@@ -8,9 +8,7 @@ Hola, ¡Te cuento un poco de mí! A comienzos del 2022, después de un tiempo ej
 
 Empecé de manera autodidacta a investigar de que se trataba, seguí algunos tutoriales y leí documentación para luego anotarme en una carrera Full Stack, donde dedique más de 800 horas aprendiendo y consolidando mis conocimientos, por otro lado, en este proceso descubrí nuevas cualidades en mí, entre ellas puedo decir que soy una persona curiosa y colaboradora, me gusta estar en continuo aprendizaje trabajando en equipo, conociendo nuevas personar y formando amistades.
  
-<p align="left">
- <a href="mailto:rafael.mojica27@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="Gmail" title="gmail" src="https://custom-icon-badges.demolab.com/badge/-rafael.mojica27@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/></a>
+<p align="center">
  <a href="https://drive.google.com/file/d/10NP9QdL1YZylSzzRFpGT7lOkwdaC0Ont/view?usp=share_link" target="_blank" rel="noopener noreferrer">
     <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
  <a href="https://portafolio-rafael-mojica.vercel.app/" target="_blank" rel="noopener noreferrer">
