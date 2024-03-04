@@ -7,7 +7,7 @@
 Como apasionado desarrollador, estoy constantemente en busca de desafíos que me permitan expandir mis habilidades y adquirir conocimientos sobre nuevas tecnologías. Mi compromiso, capacidad para trabajar en equipo y habilidad para resolver problemas generan un impacto positivo en el desarrollo de aplicaciones web, contribuyendo al éxito de diferentes proyectos.
  
 <p align="center">
- <a href="https://drive.google.com/file/d/1FLseJ_BH8cFDnWC4M05WMg55ll_JuYLp/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://drive.google.com/file/d/1IiupmPd_7P8j5SBJT-CGdZ3Jycl_pawc/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
  <a href="https://rafaelmojica.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portafolio" title="portafolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-teal?style=for-the-badge&logo=link&logoColor=white"/></a>
@@ -29,6 +29,7 @@ Como apasionado desarrollador, estoy constantemente en busca de desafíos que me
 <img align="left" alt="React" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Tailwind" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="MaterialUI" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Sass" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Css3" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
