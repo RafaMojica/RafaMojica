@@ -7,7 +7,7 @@
 Como apasionado desarrollador, estoy constantemente en busca de desafíos que me permitan expandir mis habilidades y adquirir conocimientos sobre nuevas tecnologías. Mi compromiso, capacidad para trabajar en equipo y habilidad para resolver problemas generan un impacto positivo en el desarrollo de aplicaciones web, contribuyendo al éxito de diferentes proyectos.
  
 <p align="center">
- <a href="https://drive.google.com/file/d/1IiupmPd_7P8j5SBJT-CGdZ3Jycl_pawc/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+ <a href="https://drive.google.com/file/d/1Pe-UKjdPGVZC53y1DmgpNwx3PUDryUd4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
  <a href="https://rafaelmojica.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img alt="Portafolio" title="portafolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-teal?style=for-the-badge&logo=link&logoColor=white"/></a>
