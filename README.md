@@ -4,7 +4,9 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=58D68D&lines=Full+Stack+Developer&center=true">
 </p>
 
-Como desarrollador, estoy constantemente en busca de desafíos que me permitan expandir mis habilidades y adquirir conocimientos sobre nuevas tecnologías. Mi compromiso, capacidad para trabajar en equipo y habilidad para resolver problemas generan un impacto positivo en el desarrollo de aplicaciones web, contribuyendo al éxito de diferentes proyectos.
+🚀 He estado inmerso en el mundo del desarrollo de software, desempeñando roles clave como Desarrollador Full Stack y Team Leader en entornos dinámicos y desafiantes. Durante este tiempo, mi dedicación, capacidad para trabajar en equipo y habilidad para resolver problemas han generado un impacto positivo en el éxito de diversos proyectos, lo que me ha permitido acumular una valiosa experiencia 💻.
+
+✨ Mi entusiasmo por el desarrollo se manifiesta en mi búsqueda constante de desafíos, explorando nuevas tendencias y tecnologías que amplíen mis habilidades y me mantengan actualizado con las últimas tecnologías en el ámbito IT para asi seguir evolucionando en este emocionante campo 🔍.
  
 <p align="center">
  <a href="https://drive.google.com/file/d/1Pe-UKjdPGVZC53y1DmgpNwx3PUDryUd4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
