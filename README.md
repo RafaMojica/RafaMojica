@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=58D68D&lines=Full+Stack+Developer&center=true">
 </p>
 
-Como apasionado desarrollador, estoy constantemente en busca de desafíos que me permitan expandir mis habilidades y adquirir conocimientos sobre nuevas tecnologías. Mi compromiso, capacidad para trabajar en equipo y habilidad para resolver problemas generan un impacto positivo en el desarrollo de aplicaciones web, contribuyendo al éxito de diferentes proyectos.
+Como desarrollador, estoy constantemente en busca de desafíos que me permitan expandir mis habilidades y adquirir conocimientos sobre nuevas tecnologías. Mi compromiso, capacidad para trabajar en equipo y habilidad para resolver problemas generan un impacto positivo en el desarrollo de aplicaciones web, contribuyendo al éxito de diferentes proyectos.
  
 <p align="center">
  <a href="https://drive.google.com/file/d/1Pe-UKjdPGVZC53y1DmgpNwx3PUDryUd4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
