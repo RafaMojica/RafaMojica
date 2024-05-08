@@ -9,7 +9,7 @@ He estado inmerso en el mundo del desarrollo de software, desempeñando roles cl
 Mi entusiasmo por el desarrollo se manifiesta en mi búsqueda constante de desafíos, explorando nuevas tendencias y tecnologías que amplíen mis habilidades y me mantengan actualizado con las últimas tecnologías en el ámbito IT para asi seguir evolucionando en este emocionante campo.
 
 <div align="center">
-    <p><strong>Link de Contacto</strong></p>
+    <p><strong>Links de Contacto</strong></p>
     <a href="https://drive.google.com/file/d/1Pe-UKjdPGVZC53y1DmgpNwx3PUDryUd4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/CV-F7017B?logo=readdotcv&style=for-the-badge" alt="Curriculom"/>
     </a>
