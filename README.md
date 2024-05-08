@@ -7,19 +7,25 @@
 He estado inmerso en el mundo del desarrollo de software, desempeñando roles clave en entornos dinámicos y desafiantes. Durante este tiempo, mi dedicación, capacidad para trabajar en equipo y habilidad para resolver problemas han generado un impacto positivo en el éxito de diversos proyectos, lo que me ha permitido acumular una valiosa experiencia.
 
 Mi entusiasmo por el desarrollo se manifiesta en mi búsqueda constante de desafíos, explorando nuevas tendencias y tecnologías que amplíen mis habilidades y me mantengan actualizado con las últimas tecnologías en el ámbito IT para asi seguir evolucionando en este emocionante campo.
- 
-<p align="center">
- <a href="https://drive.google.com/file/d/1Pe-UKjdPGVZC53y1DmgpNwx3PUDryUd4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-    <img alt="CV" title="CV" src="https://custom-icon-badges.demolab.com/badge/-CV-F25278?style=for-the-badge&logo=download&logoColor=white"/></a>
- <a href="https://portafolio-rafael-mojica.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img alt="Portafolio" title="portafolio" src="https://custom-icon-badges.demolab.com/badge/-Portafolio-teal?style=for-the-badge&logo=link&logoColor=white"/></a>
- <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer">
-    <img alt="Linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logoColor=white&logo=linkedin"/></a>
- <a href="https://www.instagram.com/rafa_mojica_/" target="_blank" rel="noopener noreferrer">
-    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://github.com/RafaMojica?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img alt="Repositorios" title="Mira mis repositorios" src="https://custom-icon-badges.demolab.com/badge/-Repositorios-grey?style=for-the-badge&logoColor=white&logo=github"/></a>
-</p>
+
+<div align="center">
+    <p><strong>Link de Contacto</strong></p>
+    <a href="https://drive.google.com/file/d/1Pe-UKjdPGVZC53y1DmgpNwx3PUDryUd4/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/CV-F7017B?logo=readdotcv&style=for-the-badge" alt="Curriculom"/>
+    </a>
+    <a href="https://portafolio-rafael-mojica.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portafolio-2D8080?logo=showwcase&style=for-the-badge" alt="Portfolio"/>
+    <a/>
+    <a href="https://www.linkedin.com/in/rafamojica/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Linkedin-007EC6?logo=Linkedin&style=for-the-badge" alt="Linkedin"/>
+    </a>
+    <a href="https://www.instagram.com/rafa_mojica_/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-833C80?logo=Instagram&logoColor=fff&style=for-the-badge" alt="Instagram"/>
+    </a>
+    <a href="https://github.com/RafaMojica?tab=repositories" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Repositorios-grey?logo=Github&style=for-the-badge" alt="Repositorios Github"/>
+    </a>
+</div>
 
 #
 
